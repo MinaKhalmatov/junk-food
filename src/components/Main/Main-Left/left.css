@@ -1,0 +1,59 @@
+.left {
+  width: 55%;
+}
+
+.titles {
+  padding: 15px;
+}
+
+.header-inp {
+  width: 220px;
+  height: 48px;
+  padding: 14px 0px 0px 0px;
+  border-radius: 3px;
+  border: 1px;
+  padding: 5px;
+  padding-left: 20px;
+  background: #2d303e;
+  margin-top: 20px;
+}
+
+.menu-li:hover {
+  text-decoration: underline;
+  color: chocolate;
+  cursor: pointer;
+}
+
+/* section */
+
+.choose {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-left: 15px;
+  text-align: center;
+}
+
+.block {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/* props */
+
+
+.block-p {
+  width: 192px;
+  height: 230px;
+  background-color: #1f1d2b;
+  border-radius: 10px;
+  margin-left: 15px;
+  margin-top: 85px;
+}
+
+.props-img {
+  position: relative;
+  bottom: 55px;
+  left: 30px;
+}

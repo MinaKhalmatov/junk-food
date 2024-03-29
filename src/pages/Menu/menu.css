@@ -1,0 +1,22 @@
+.sect-enner {
+  width: 8%;
+  height: 146vh;
+  background-color: #1f1d2b;
+  border-radius: 10px;
+
+}
+
+.logo-item {
+  padding-left: 22px;
+  padding-top: 22px;
+}
+
+.item {
+  padding-left: 22px;
+  padding-top: 40px;
+}
+
+.log-out {
+  padding: 41px;
+  padding-bottom: 15px;
+}
