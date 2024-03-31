@@ -7,7 +7,7 @@ import Food5 from "../../../../assets/img/Lagman2.png";
 export default function Section(props) {
   return (
     <>
-      <section>
+      <section style={{ overflow: "auto" }}> 
         <div className="choose">
           <h2 style={{ color: "white", marginTop: "10px" }}>Choose Dishes</h2>
           <div>
@@ -58,7 +58,7 @@ export default function Section(props) {
             subtitle="    80 Bowls available"
           />
           <BlockProps
-            img={food1}
+            img={Food5}
             title=" Hot spicy fried rice with omelet"
             price="$ 5.29"
             subtitle="    20 Bowls available"

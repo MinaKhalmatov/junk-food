@@ -5,6 +5,7 @@
   padding: 25px;
 }
 
+
 .enner-btn {
   width: 65px;
   height: 34px;
@@ -40,7 +41,7 @@
 .main-food {
   display: flex;
   justify-content: space-between;
-  margin-top: 20px;
+  margin-top: 40px;
 }
 
 .main-bttn {
@@ -73,3 +74,4 @@
   margin-top: 20px;
   /* box-shadow: #ea7c69; */
 }
+

@@ -7,7 +7,6 @@ function App() {
   return (
     <div style={{ display: "flex", gap:"25px" }} className="App">
       <Menu />
-
       <Left />
       <Right />
     </div>
